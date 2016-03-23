@@ -1,33 +1,125 @@
+
+
+
+
+
+
 body
-      {background-color: #000f1e;
-      	padding: 100px;
+      {background-color: #1a2325;
+      	
 
     }
     
 
 
-h1{
-   color:white;
+
+
+.main
+{position:relative;
+
+padding-left: 75px;
+padding-right: 75px;
+border: 80px;
+border-left: 80px;
+border-right: 80px;
+margin-bottom: 10px;
+;
+}
+
+.dobot1 {float:center;
+position:relative;
+
 
 }
 
 
-header{
-        color:white;
 
+.monster {float:right;
+position:relative;
+left: 50px;
+bottom: 100px;
+right: 50px;
+
+}
+
+
+.archor {float:right;
+position:relative;
+left: 50px;
+bottom: 100px;
+right: 50px;
+}
+
+
+.buy {float:right;
+position:relative;
+left: 50px;
+bottom: 100px;
+right: 50px;
+}
+
+
+h1{
+   color:white;
+   font-family: Quatro Slab, Regular;
+   font-weight: normal;
+   font-size: 36pt;
+
+
+}
+
+h2 {color:white;
+	font-family: LFT Etica;
+	font-size : 16pt;
+
+	
+
+}
+
+h4 {color: #555a5b;
+   font-family: Myriad Pro; Regular;
+font-weight: lighter;
 }
 
 
 div{
+    color: white;
+
+}
+
+
+
+
+li{list-style: none;
+    float:left;
+    margin:10px;
+    background-color: #01ccce;
+    padding:7px 14px;
     color:white;
 
 }
 
 
-
-
-
 p
-    {color:white;
+    {color: #abadad;
+     font-family: LFT Etica; Regular;
+     font-size: 16px;
+    
+       
+     width: 350px;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     margin-bottom: 20px;
+     margin-right: 
+    
+  }
 
-    }
+
+img 
+{ margin-right: 10px;
+
+
+}
+
+
+    
