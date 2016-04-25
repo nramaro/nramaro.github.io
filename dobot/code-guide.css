@@ -37,7 +37,7 @@ position:relative;
 .monster {float:right;
 position:relative;
 left: 50px;
-bottom: 100px;
+bottom: 550px;
 right: 50px;
 
 }
@@ -45,7 +45,7 @@ right: 50px;
 
 .archor {float:right;
 position:relative;
-left: 50px;
+left: 700px;
 bottom: 100px;
 right: 50px;
 }
@@ -113,6 +113,20 @@ p
      margin-right: 
     
   }
+
+
+
+    
+  }
+
+
+
+
+
+
+
+
+
 
 
 img 
