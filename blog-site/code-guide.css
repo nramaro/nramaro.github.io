@@ -1,0 +1,130 @@
+
+
+
+
+
+
+body
+      {background-color: white;
+      	
+
+    }
+    
+
+
+
+
+.main
+{position:relative;
+
+padding-left: 75px;
+padding-right: 75px;
+border: 80px;
+border-left: 80px;
+border-right: 80px;
+margin-bottom: 10px;
+;
+}
+
+.sneakerspot {float:center;
+position:relative;
+
+
+}
+
+
+
+.maroon {float:right;
+position:relative;
+
+left: 50px;
+bottom: 400px;
+right: 50px;
+
+width:600px;
+}
+
+
+.hare {float:right;
+position:relative;
+left: 660px;
+bottom: 100px;
+right: 50px;
+width:600px
+}
+
+
+
+.concord {float:right;
+position:relative;
+left: 50px;
+bottom: 100px;
+right: 50px;
+width:600px
+}
+
+
+h1{
+   color:black;
+   font-family: Sentinel, bold;
+   font-weight: normal;
+   font-size: 36pt;
+
+
+}
+
+h2 {color:white;
+	font-family: LFT Etica;
+	font-size : 16pt;
+
+	
+
+}
+
+h4 {color: #555a5b;
+   font-family: Sentinel; Regular;
+font-weight: lighter;
+}
+
+
+div{
+    color: white;
+
+}
+
+
+
+
+li{list-style: none;
+    float:left;
+    margin:10px;
+    background-color: #01ccce;
+    padding:7px 14px;
+    color:white;
+
+}
+
+
+p
+    {color: black;
+     font-family: National; Regular;
+     font-size: 16px;
+    
+       
+     width: 350px;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     margin-bottom: 20px;
+     margin-right: 
+    
+  }
+
+
+img 
+{ margin-right: 10px;
+
+
+}
+
+
+    
