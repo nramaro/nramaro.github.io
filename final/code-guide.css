@@ -1,36 +1,77 @@
+
+
+
+
+
+
 body
       {background-color: white;
-      
+      	
+
     }
     
 
 
 
-.info {width: 500px;
-margin: 20px auto;
-position: relative;
-top: -20px;
-left: 20px;
 
+.main
+{position:relative;
+
+padding-left: 75px;
+padding-right: 75px;
+border: 80px;
+border-left: 80px;
+border-right: 80px;
+margin-bottom: 10px;
+;
 }
-
 
 .mastspot {float:center;
-position:absolute;
-width: 1200px;
-top: -10px;
-
+position:relative;
+width:3000px;
+bottom: 10px;
 }
 
 
 
+.maroon {float:right;
+position:relative;
+display: inline;
+left: 50px;
+bottom: 450px;
+right: 50px;
+width:400px;
+;
+}
+
+
+.hare {float:right;
+position:relative;
+display: inline;
+left: 50px;
+bottom: 650px;
+right: 50px;
+width:400px;
+margin-top: 200px;
+}
+
+.line {
+  border-bottom: 3px solid: black;
+
+  border-style: dotted;
 
 
 
-img 
-{position: relative;
-  
- width: 400px;
+}
+
+.concord {float:right;
+position:relative;
+display: inline;
+left: 50px;
+bottom: 550px;
+right: 50px;
+width:400px;
+margin-top: 200px;
 }
 
 
@@ -39,13 +80,16 @@ h1{
    font-family: Sentinel, bold;
    font-weight: normal;
    font-size: 36pt;
-   margin-top: 50px;
+  margin-bottom: 30px;
 
 }
 
 h2 {color:white;
-  font-family: LFT Etica;
-  font-size : 16pt; 
+	font-family: LFT Etica;
+	font-size : 16pt;
+
+	
+
 }
 
 h4 {color: #555a5b;
@@ -56,27 +100,87 @@ font-weight: lighter;
 
 div{
     color: white;
-width: 50%;
-float:left;
+
 }
 
 
 
+
+li{list-style: none;
+    float:left;
+    margin:10px;
+    background-color: #01ccce;
+    padding:7px 14px;
+    color:white;
+
+}
+
+
 a {margin-bottom: 400px;
 ;
+
+
 }
 
 p
     {color: black;
      font-family: National; Regular;
      font-size: 18px;
-  ;
+  
     
   }
 
- 
-  }
+  
+.p1     {width: 350px;
+     display: inline-block;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     ;
+     margin-right: 
+   
+   }
 
- 
+
+.p2 
+
+{width: 350px;
+     display: inline-block;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     ;
+     margin-right: 
+   
+   }
 
 
+ .p3 
+
+{width: 350px;
+     display: inline-block;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     margin-bottom: 20px;
+     margin-right: 
+   
+   }    
+
+
+
+
+
+img 
+{ margin-right: 10px;
+
+
+}
+
+
+
+  
+     width: 350px;
+     padding-bottom: 10px;
+     padding-right: 50px;
+     margin-bottom: 20px;
+     margin-right: 
+
+    

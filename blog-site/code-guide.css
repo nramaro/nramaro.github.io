@@ -40,7 +40,7 @@ display: inline;
 left: 50px;
 bottom: 450px;
 right: 50px;
-width:600px;
+width:400px;
 ;
 }
 
@@ -51,7 +51,7 @@ display: inline;
 left: 50px;
 bottom: 650px;
 right: 50px;
-width:600px;
+width:400px;
 margin-top: 200px;
 }
 
@@ -67,10 +67,10 @@ margin-top: 200px;
 .concord {float:right;
 position:relative;
 display: inline;
-left: 660px;
+left: 50px;
 bottom: 550px;
 right: 50px;
-width:600px;
+width:400px;
 margin-top: 200px;
 }
 
