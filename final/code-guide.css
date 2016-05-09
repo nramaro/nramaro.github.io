@@ -28,8 +28,9 @@ margin-bottom: 10px;
 
 .mastspot {float:center;
 position:relative;
-width:3000px;
+width:1000px;
 bottom: 10px;
+
 }
 
 
@@ -38,7 +39,7 @@ bottom: 10px;
 position:relative;
 display: inline;
 left: 50px;
-bottom: 450px;
+bottom: 350px;
 right: 50px;
 width:400px;
 ;
@@ -49,7 +50,7 @@ width:400px;
 position:relative;
 display: inline;
 left: 50px;
-bottom: 650px;
+bottom: 525px;
 right: 50px;
 width:400px;
 margin-top: 200px;

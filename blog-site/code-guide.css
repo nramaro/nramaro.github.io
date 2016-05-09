@@ -28,7 +28,7 @@ margin-bottom: 10px;
 
 .mastspot {float:center;
 position:relative;
-width:3000px;
+width:1725px;
 bottom: 10px;
 }
 
@@ -77,7 +77,8 @@ margin-top: 200px;
 
 
 body{
-  background-image: url("logobox.jpg");
+  background: url(logobox.jpg);
+
 }
 
 
