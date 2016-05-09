@@ -75,6 +75,13 @@ margin-top: 200px;
 }
 
 
+
+body{
+  background-image: url("logobox.jpg");
+}
+
+
+
 h1{
    color:black;
    font-family: Sentinel, bold;
